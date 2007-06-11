@@ -1,0 +1,17 @@
+[flash_video_full]
+Source=node/view/full.tpl
+MatchFile=full/flash_video.tpl
+Subdir=templates
+Match[class_identifier]=flash_video
+
+[flash_video_line]
+Source=node/view/line.tpl
+MatchFile=line/flash_video.tpl
+Subdir=templates
+Match[class_identifier]=flash_video
+
+[embed_flash_video]
+Source=content/view/embed.tpl
+MatchFile=embed/flash_video.tpl
+Subdir=templates
+Match[class_identifier]=flash_video

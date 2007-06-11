@@ -1,0 +1,8 @@
+Video Player is quite easy to install.
+
+1. Untar the extension in your extensions/ directory, and activate it using the
+   admin interface or by editing override/site.ini.append.php.
+2. Import the "flash_video" package from the doc/ directory.
+3. Add the contents of doc/override.ini.append to the override.ini.append.php
+   files in your siteaccesses.
+4. Clear your caches.
